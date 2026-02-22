@@ -1,0 +1,29 @@
+# Models (too large for git)
+models/
+mlruns/
+data/raw/
+
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Eggs/dists
+*.egg-info/
+dist/
+build/
+
+# Tool caches
+.deepeval/
+
+# IDE
+.idea/
+.vscode/
+*.swp
